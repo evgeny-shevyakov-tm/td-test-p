@@ -1,0 +1,10 @@
+site_name: 'example-docs'
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Home: index.md
+  - Overview:
+      - What is Backstage?: 'overview/what-is-backstage.md'
+      - Backstage architecture: 'overview/architecture-overview.md'
